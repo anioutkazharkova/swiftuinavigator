@@ -1,5 +1,5 @@
 # SwiftUI Navigator
-Small pure SwiftUI library provides lightweight solution for navigation in app.
+Small lightweight library to provide pure SwiftUI navigation in app
 
 ## How to use:
 
