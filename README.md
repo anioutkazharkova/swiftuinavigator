@@ -23,3 +23,16 @@ struct SampleView: View, IItemView {
  ```
  
  Profit!
+
+
+## To provide back navigation:
+
+To return to previous screen:
+```
+ self.listener?.pop()
+```
+
+To return to root:
+```
+self.listener?.popToRoot()
+```
