@@ -4,11 +4,11 @@ Navigation library for SwiftUI
 ## How to use:
 
 1. Add SwiftUI via PackageManager 
-2. Add import in your files
+2. Add import to your files
 ```
 import SwiftUINavigator
 ```
-3. Make your screen Views implement IItemView protocol 
+3. Make your screen Views to implement IItemView protocol 
 
 ```
 struct SampleView: View, IItemView {
